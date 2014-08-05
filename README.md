@@ -10,6 +10,7 @@ This is source code for Employee friendly version of EntryExit APP ( Desktop Ver
 #### Requirements to Build the APP
 
     1. Visual Studio 2013
+    2. MS Paint
 
 #### How to Build and Test
 
