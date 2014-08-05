@@ -15,6 +15,6 @@ This is source code for Employee friendly version of EntryExit APP ( Desktop Ver
 
 
     1. Clone code from Github repo.
-    2. Open in solution in Visual Studio 2013.
+    2. Open  solution in Visual Studio 2013.
     3. Modify Properties/Settings.Settings to include EntryExit Web App Urls.
     4. Hit F5 and Enjoy!
